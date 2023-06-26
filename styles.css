@@ -6,11 +6,12 @@
 	background-color:lightblue;
 	padding:50px;
 	border:15px solid blue;
-	margin:20px;
+	
 }
 .two
 {
 	border:1px dotted black;
+	padding:15px;
 }
 .three
 {
