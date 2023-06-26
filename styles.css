@@ -11,12 +11,13 @@
 .two
 {
 	border:1px dotted black;
-	padding:15px;
+	width:300px;
+
 }
 .three
 {
 	padding:20px;
 	border:1px solid black;
-	width:300px;
+	width:430px;
 	
 }
