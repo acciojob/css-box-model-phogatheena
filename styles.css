@@ -1,24 +1,9 @@
 
 /* Your CSS Code here. */
-.one
-{
+div{
 	width:300px;
 	background-color:lightblue;
 	padding:50px;
 	border:15px solid blue;
-	
-}
-.two
-{
-	border:1px dotted black;
-	width:300px;
-
-}
-.three
-{
-	padding:20px;
-	border:1px solid black;
-	width:430px;
 	margin:20px;
-	
 }
